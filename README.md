@@ -1,2 +1,2 @@
 介護保険の福祉用具のTAISコードをsqliteにしただけ
-CSVのzipもあるよ
+<br>CSVのzipもあるよ
